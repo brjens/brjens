@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I love to build, learn, and support the open-source community. I'm always looking to dive deep into new projects.
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,linux,java,react,js,html,css,spring)](https://skillicons.dev)
 <!--
 **brjens/brjens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
