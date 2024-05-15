@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I love to build, learn, and support the open-source community. I'm always looking to dive deep into new projects.
+I love to build, learn, and tinker. I'm always looking to dive deep into new project.
 
 
 
